@@ -1,3 +1,10 @@
+# Log files
+logs/
+*.log
+*.log.*
+*.gz
+*.zip
+*.bz2
 # Python-generated files
 __pycache__/
 *.py[oc]
